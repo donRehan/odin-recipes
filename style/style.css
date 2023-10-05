@@ -4,12 +4,46 @@ div {
 	font: arial;
 }
 
+.dashboard {
+	background-color: lightblue;
+	color: black;
+}
+
 img {
 	width: 200px;
 	height: 100%;
 }
 
-.recipes {
+
+.main {
 	background-color: lightblue;
 	color: black;
+}
+
+.recipes {
+	background-color: grey;
+	color: black;
+	float: right;
+	margin-top: 165px;
+	margin-right: 1000px;
+}
+
+.lasgna {
+	background-color: grey;
+	color: black;
+	float: right;
+	margin-right: 920px;
+	margin-top: 165px;
+}
+
+.mahshi {
+	background-color: grey;
+	color: black;
+	float: right;
+	margin-right: 1005px;
+	margin-top: 5px;
+}
+
+h4 {
+	margin-left: 5px;
 }
