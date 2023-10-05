@@ -1,0 +1,15 @@
+div {
+	background-color: grey;
+	color: white;
+	font: arial;
+}
+
+img {
+	width: 200px;
+	height: 100%;
+}
+
+.recipes {
+	background-color: lightblue;
+	color: black;
+}
